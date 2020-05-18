@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/5ICKA55LICKER.github.io/kom-tillbaka/precache-manifest.9baaaed7436d0b166ccc5edb42c9206a.js"
+  "/5icka55licker.github.io/kom-tillbaka/precache-manifest.0a8afc70979cebcd1992b0dce950e538.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/5ICKA55LICKER.github.io/kom-tillbaka/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/5icka55licker.github.io/kom-tillbaka/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
