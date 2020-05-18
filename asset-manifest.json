@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kom-tillbaka.github.io/static/css/main.8e788963.chunk.css",
+    "main.css": "/kom-tillbaka.github.io/static/css/main.b9238fa7.chunk.css",
     "main.js": "/kom-tillbaka.github.io/static/js/main.ad8d9a23.chunk.js",
     "main.js.map": "/kom-tillbaka.github.io/static/js/main.ad8d9a23.chunk.js.map",
     "runtime-main.js": "/kom-tillbaka.github.io/static/js/runtime-main.3b4cb236.js",
@@ -8,15 +8,15 @@
     "static/js/2.e127525b.chunk.js": "/kom-tillbaka.github.io/static/js/2.e127525b.chunk.js",
     "static/js/2.e127525b.chunk.js.map": "/kom-tillbaka.github.io/static/js/2.e127525b.chunk.js.map",
     "index.html": "/kom-tillbaka.github.io/index.html",
-    "precache-manifest.b3ac183e48caa04083766de674a3a54d.js": "/kom-tillbaka.github.io/precache-manifest.b3ac183e48caa04083766de674a3a54d.js",
+    "precache-manifest.c4bddea6cf9158ef0af4c1b4550583b4.js": "/kom-tillbaka.github.io/precache-manifest.c4bddea6cf9158ef0af4c1b4550583b4.js",
     "service-worker.js": "/kom-tillbaka.github.io/service-worker.js",
-    "static/css/main.8e788963.chunk.css.map": "/kom-tillbaka.github.io/static/css/main.8e788963.chunk.css.map",
+    "static/css/main.b9238fa7.chunk.css.map": "/kom-tillbaka.github.io/static/css/main.b9238fa7.chunk.css.map",
     "static/js/2.e127525b.chunk.js.LICENSE.txt": "/kom-tillbaka.github.io/static/js/2.e127525b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3b4cb236.js",
     "static/js/2.e127525b.chunk.js",
-    "static/css/main.8e788963.chunk.css",
+    "static/css/main.b9238fa7.chunk.css",
     "static/js/main.ad8d9a23.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9125e01bf8a350cf08b589818338b1cf",
+    "revision": "a9010ed9abe3ec39ed85bb02efc3c2bd",
     "url": "/kom-tillbaka.github.io/index.html"
   },
   {
-    "revision": "c075dee10d4225797863",
-    "url": "/kom-tillbaka.github.io/static/css/main.8e788963.chunk.css"
+    "revision": "6ce6e244bce0eabf9514",
+    "url": "/kom-tillbaka.github.io/static/css/main.b9238fa7.chunk.css"
   },
   {
     "revision": "532253f778f06fb5cdf3",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kom-tillbaka.github.io/static/js/2.e127525b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c075dee10d4225797863",
+    "revision": "6ce6e244bce0eabf9514",
     "url": "/kom-tillbaka.github.io/static/js/main.ad8d9a23.chunk.js"
   },
   {
