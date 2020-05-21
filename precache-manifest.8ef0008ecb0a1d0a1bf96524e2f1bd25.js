@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "470dba93918b9d5940293aad193d5a85",
+    "revision": "39f579661caa2686b411a35a3c60c720",
     "url": "/kom-tillbaka/index.html"
   },
   {
-    "revision": "81ea4f05cba83dd4da71",
+    "revision": "c8e0336ba2341fd8534e",
     "url": "/kom-tillbaka/static/css/main.cb1c6e12.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kom-tillbaka/static/js/4.f9ca72f1.chunk.js"
   },
   {
-    "revision": "81ea4f05cba83dd4da71",
-    "url": "/kom-tillbaka/static/js/main.e37f2ea3.chunk.js"
+    "revision": "c8e0336ba2341fd8534e",
+    "url": "/kom-tillbaka/static/js/main.60ad4f79.chunk.js"
   },
   {
     "revision": "d2e65faa955f3e04c1d1",
