@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/kom-tillbaka/static/css/main.b9238fa7.chunk.css",
-    "main.js": "/kom-tillbaka/static/js/main.b576a696.chunk.js",
-    "main.js.map": "/kom-tillbaka/static/js/main.b576a696.chunk.js.map",
-    "runtime-main.js": "/kom-tillbaka/static/js/runtime-main.01a40ed1.js",
-    "runtime-main.js.map": "/kom-tillbaka/static/js/runtime-main.01a40ed1.js.map",
-    "static/js/2.a0c3997b.chunk.js": "/kom-tillbaka/static/js/2.a0c3997b.chunk.js",
-    "static/js/2.a0c3997b.chunk.js.map": "/kom-tillbaka/static/js/2.a0c3997b.chunk.js.map",
+    "main.css": "/kom-tillbaka/static/css/main.cb1c6e12.chunk.css",
+    "main.js": "/kom-tillbaka/static/js/main.e37f2ea3.chunk.js",
+    "main.js.map": "/kom-tillbaka/static/js/main.e37f2ea3.chunk.js.map",
+    "runtime-main.js": "/kom-tillbaka/static/js/runtime-main.a08c1fe5.js",
+    "runtime-main.js.map": "/kom-tillbaka/static/js/runtime-main.a08c1fe5.js.map",
+    "static/js/2.a7ec725c.chunk.js": "/kom-tillbaka/static/js/2.a7ec725c.chunk.js",
+    "static/js/2.a7ec725c.chunk.js.map": "/kom-tillbaka/static/js/2.a7ec725c.chunk.js.map",
+    "static/js/3.16cf6b8d.chunk.js": "/kom-tillbaka/static/js/3.16cf6b8d.chunk.js",
+    "static/js/3.16cf6b8d.chunk.js.map": "/kom-tillbaka/static/js/3.16cf6b8d.chunk.js.map",
+    "static/js/4.f9ca72f1.chunk.js": "/kom-tillbaka/static/js/4.f9ca72f1.chunk.js",
+    "static/js/4.f9ca72f1.chunk.js.map": "/kom-tillbaka/static/js/4.f9ca72f1.chunk.js.map",
     "index.html": "/kom-tillbaka/index.html",
-    "precache-manifest.32d1e2e61b0d976493df80a6d3788edc.js": "/kom-tillbaka/precache-manifest.32d1e2e61b0d976493df80a6d3788edc.js",
+    "precache-manifest.23886c517f612e263352911353ad89e7.js": "/kom-tillbaka/precache-manifest.23886c517f612e263352911353ad89e7.js",
     "service-worker.js": "/kom-tillbaka/service-worker.js",
-    "static/css/main.b9238fa7.chunk.css.map": "/kom-tillbaka/static/css/main.b9238fa7.chunk.css.map",
-    "static/js/2.a0c3997b.chunk.js.LICENSE.txt": "/kom-tillbaka/static/js/2.a0c3997b.chunk.js.LICENSE.txt"
+    "static/css/main.cb1c6e12.chunk.css.map": "/kom-tillbaka/static/css/main.cb1c6e12.chunk.css.map",
+    "static/js/2.a7ec725c.chunk.js.LICENSE.txt": "/kom-tillbaka/static/js/2.a7ec725c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.01a40ed1.js",
-    "static/js/2.a0c3997b.chunk.js",
-    "static/css/main.b9238fa7.chunk.css",
-    "static/js/main.b576a696.chunk.js"
+    "static/js/runtime-main.a08c1fe5.js",
+    "static/js/2.a7ec725c.chunk.js",
+    "static/css/main.cb1c6e12.chunk.css",
+    "static/js/main.e37f2ea3.chunk.js"
   ]
 }
