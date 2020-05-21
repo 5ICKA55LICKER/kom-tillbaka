@@ -13,7 +13,7 @@ const Image = styled.img`
     height: auto;
 `
 const WorkItem = ({work}) => {
-    console.log(work.image)
+
     return (
         <Image src={urlFor(work.image).url()} />
     )

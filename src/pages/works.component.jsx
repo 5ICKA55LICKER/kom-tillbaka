@@ -16,7 +16,7 @@ const WorkContainer = styled.div`
 const Works = () => {
     const { works } = useContext(WorksContext)
     return (
-        <WorkContainer>
+        <WorkContainer id="works">
             {
                 works ? works.map((item, id) => 
                 <WorkItem key={id} work={item} />) : null

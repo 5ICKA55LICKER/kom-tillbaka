@@ -2,6 +2,7 @@ import React from 'react'
 import Logo from '../components/logo/logo.component'
 import styled from 'styled-components'
 
+
 const HomeSection = styled.div`
     width: 100%;
     height: 100vh;
@@ -15,6 +16,7 @@ const Home = () => {
         <HomeSection>
             <Logo />
         </HomeSection>
+
     )
 }
 
