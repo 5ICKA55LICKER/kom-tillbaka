@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kom-tillbaka/static/css/main.cb1c6e12.chunk.css",
-    "main.js": "/kom-tillbaka/static/js/main.60ad4f79.chunk.js",
-    "main.js.map": "/kom-tillbaka/static/js/main.60ad4f79.chunk.js.map",
+    "main.js": "/kom-tillbaka/static/js/main.e37f2ea3.chunk.js",
+    "main.js.map": "/kom-tillbaka/static/js/main.e37f2ea3.chunk.js.map",
     "runtime-main.js": "/kom-tillbaka/static/js/runtime-main.8e2b0055.js",
     "runtime-main.js.map": "/kom-tillbaka/static/js/runtime-main.8e2b0055.js.map",
     "static/js/2.a7ec725c.chunk.js": "/kom-tillbaka/static/js/2.a7ec725c.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/4.f8032852.chunk.js": "/kom-tillbaka/static/js/4.f8032852.chunk.js",
     "static/js/4.f8032852.chunk.js.map": "/kom-tillbaka/static/js/4.f8032852.chunk.js.map",
     "index.html": "/kom-tillbaka/index.html",
-    "precache-manifest.93f3500815eafde321bfb40d553d6a58.js": "/kom-tillbaka/precache-manifest.93f3500815eafde321bfb40d553d6a58.js",
+    "precache-manifest.842d3a0c89f4b2a99571c0d18d0b1ade.js": "/kom-tillbaka/precache-manifest.842d3a0c89f4b2a99571c0d18d0b1ade.js",
     "service-worker.js": "/kom-tillbaka/service-worker.js",
     "static/css/main.cb1c6e12.chunk.css.map": "/kom-tillbaka/static/css/main.cb1c6e12.chunk.css.map",
     "static/js/2.a7ec725c.chunk.js.LICENSE.txt": "/kom-tillbaka/static/js/2.a7ec725c.chunk.js.LICENSE.txt"
@@ -21,6 +21,6 @@
     "static/js/runtime-main.8e2b0055.js",
     "static/js/2.a7ec725c.chunk.js",
     "static/css/main.cb1c6e12.chunk.css",
-    "static/js/main.60ad4f79.chunk.js"
+    "static/js/main.e37f2ea3.chunk.js"
   ]
 }
