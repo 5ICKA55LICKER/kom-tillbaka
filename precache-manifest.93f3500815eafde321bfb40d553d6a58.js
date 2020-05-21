@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39f579661caa2686b411a35a3c60c720",
+    "revision": "1c4189a59d7ac5d656ff488b0e32fd60",
     "url": "/kom-tillbaka/index.html"
   },
   {
@@ -20,15 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kom-tillbaka/static/js/3.16cf6b8d.chunk.js"
   },
   {
-    "revision": "f278021f4fe08da7a775",
-    "url": "/kom-tillbaka/static/js/4.f9ca72f1.chunk.js"
+    "revision": "e50b80d91e05a62e7217",
+    "url": "/kom-tillbaka/static/js/4.f8032852.chunk.js"
   },
   {
     "revision": "c8e0336ba2341fd8534e",
     "url": "/kom-tillbaka/static/js/main.60ad4f79.chunk.js"
   },
   {
-    "revision": "d2e65faa955f3e04c1d1",
-    "url": "/kom-tillbaka/static/js/runtime-main.a08c1fe5.js"
+    "revision": "24d3aed8ff7dc389bc47",
+    "url": "/kom-tillbaka/static/js/runtime-main.8e2b0055.js"
   }
 ]);
